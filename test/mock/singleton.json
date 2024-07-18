@@ -1,0 +1,50 @@
+[
+    {
+        "a": 1,
+        "b": 1,
+        "operation": "sum",
+        "result": 2
+    },
+    {
+        "a": 1,
+        "b": 1,
+        "operation": "subtraction",
+        "result": 0
+    },
+    {
+        "a": 1,
+        "b": 1,
+        "operation": "multiplication",
+        "result": 1
+    },
+    {
+        "a": 1,
+        "b": 1,
+        "operation": "division",
+        "result": 1
+    },
+    {
+        "a": 1,
+        "b": 2,
+        "operation": "sum",
+        "result": 3
+    },
+    {
+        "a": 1,
+        "b": 2,
+        "operation": "subtraction",
+        "result": -1
+    },
+    {
+        "a": 1,
+        "b": 2,
+        "operation": "multiplication",
+        "result": 2
+    },
+    {
+        "a": 1,
+        "b": 2,
+        "operation": "division",
+        "result": 0
+    }
+]
